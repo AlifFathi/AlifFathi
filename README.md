@@ -14,19 +14,23 @@ I am a data engineering enthusiast, exploring the data streams at Universiti Tek
 ## 🛠 Skills  
 
 ### 💻 Programming Languages  
-- **C** – Intermediate  
-- **C++** – Intermediate  
-- **Java** – Intermediate  
-- **PHP** – Intermediate  
-- **SQL** – Intermediate  
-- **HTML** – Intermediate  
-- **CSS** – Intermediate  
-- **JavaScript** – Beginner  
+<p align="left">
+  <img src="https://img.shields.io/badge/C-Intermediate-00599C?logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-Intermediate-00599C?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-Intermediate-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-Intermediate-777BB4?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Intermediate-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-Intermediate-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-Intermediate-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Beginner-F7DF1E?logo=javascript&logoColor=black" />
+</p>
 
 ### 📊 Software & Tools  
-- **Power BI** – Intermediate  
-- **Microsoft Excel** – Intermediate  
-- **Microsoft Word** – Intermediate  
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-Intermediate-217346?logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Word-Intermediate-2B579A?logo=microsoft-word&logoColor=white" />
+</p>
 
 ---
 
