@@ -27,7 +27,7 @@ I am a data engineering enthusiast, exploring the data streams at Universiti Tek
 
 ### 📊 Software & Tools  
 <p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20BI-Beginner-F2C811?logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-Intermediate-217346?logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Word-Intermediate-2B579A?logo=microsoft-word&logoColor=white" />
 </p>
