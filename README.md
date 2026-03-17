@@ -53,7 +53,7 @@ I am a data engineering enthusiast, exploring the data streams at Universiti Tek
 
 ---
 
-## 📜 Certifications  
+### 📜 Certifications  
 
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/aeb2415f-f2a7-4dcd-8c92-384fd2f302c2" title="Microsoft Certified: Azure Data Fundamentals"><img src="https://images.credly.com/size/80x80/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="Microsoft Certified: Azure Data Fundamentals" width="80" height="80"></a>
@@ -63,8 +63,8 @@ I am a data engineering enthusiast, exploring the data streams at Universiti Tek
 
 ### 🏅 Badges  
 
-<b>My GitHub Stats</b>  
+<h3>My GitHub contributions summary</h3>
 
-<a href="http://www.github.com/AlifFathi">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlifFathi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AlifFathi's GitHub stats" />
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlifFathi&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlifFathi&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
