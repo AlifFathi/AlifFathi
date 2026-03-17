@@ -6,7 +6,7 @@ I am a data engineering enthusiast, exploring the data streams at Universiti Tek
 
 ## 📚 About Me
 - 🌱 Third-year student in Bachelor of Computer Science **(Data Engineering)**, UTM.
-- 🤝 Email: mohamedaliffathi@graduate.utm.my
+- 🤝 Email: alifptn1234@gmail.com
 
 ---
 
