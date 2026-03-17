@@ -5,8 +5,10 @@ My name is **Mohamed Alif Fathi**!
 I am a data engineering enthusiast, exploring the data streams at Universiti Teknologi Malaysia (UTM).
 
 ## 📚 About Me
+- 🌍 Based in Parit Buntar, Perak.
 - 🌱 Third-year student in Bachelor of Computer Science **(Data Engineering)**, UTM.
-- 🤝 Email: alifptn1234@gmail.com
+- 📫 You can reach me at alifptn1234@gmail.com.
+- 🤝 I'm open to collaborating on a project.
 
 ---
 
