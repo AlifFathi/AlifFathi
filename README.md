@@ -56,6 +56,7 @@ I am a data engineering enthusiast, exploring the data streams at Universiti Tek
 ## 📜 Certifications  
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/aeb2415f-f2a7-4dcd-8c92-384fd2f302c2" title="Microsoft Certified: Azure Data Fundamentals"><img src="https://images.credly.com/size/80x80/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="Microsoft Certified: Azure Data Fundamentals" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 ---
