@@ -5,13 +5,12 @@ My name is **Mohamed Alif Fathi**!
 I am a data engineering enthusiast, exploring the data streams at Universiti Teknologi Malaysia (UTM).
 
 ## 📚 About Me
-- 💬 Birth Date: 31th December 2004  
-- 🌱 Third-year student in Bachelor of Computer Science **(Data Engineering)**, UTM.  
-- 🤝 Email: mohamedaliffathi@graduate.utm.my  
+- 🌱 Third-year student in Bachelor of Computer Science **(Data Engineering)**, UTM.
+- 🤝 Email: mohamedaliffathi@graduate.utm.my
 
 ---
 
-## 🛠 Skills  
+## 🛠 Skills
 
 ### 💻 Programming Languages  
 <p align="left">
@@ -49,6 +48,17 @@ I am a data engineering enthusiast, exploring the data streams at Universiti Tek
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
     </picture> 
+  </a>
+</p>
+
+---
+
+## 📜 Certifications  
+
+<p align="center">
+  <a href="https://learn.microsoft.com/en-us/certifications/azure-data-fundamentals/">
+    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="110" /><br>
+    <b>Azure Data Fundamentals (DP-900)</b>
   </a>
 </p>
 
