@@ -6,7 +6,7 @@ I am a data engineering enthusiast, exploring the data streams at Universiti Tek
 
 ## 📚 About Me
 - 💬 Birth Date: 31th December 2004  
-- 🌱 First-year student in Bachelor of Computer Science **(Data Engineering)**, UTM.  
+- 🌱 Third-year student in Bachelor of Computer Science **(Data Engineering)**, UTM.  
 - 🤝 Email: mohamedaliffathi@graduate.utm.my  
 
 ---
