@@ -55,12 +55,8 @@ I am a data engineering enthusiast, exploring the data streams at Universiti Tek
 
 ## 📜 Certifications  
 
-<p align="center">
-  <a href="https://learn.microsoft.com/en-us/certifications/azure-data-fundamentals/">
-    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="110" /><br>
-    <b>Azure Data Fundamentals (DP-900)</b>
-  </a>
-</p>
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 ---
 
