@@ -58,6 +58,7 @@ I am a data engineering enthusiast, exploring the data streams at Universiti Tek
 ### 📜 Certifications  
 
 <!--START_SECTION:badges-->
+[![AWS Academy Graduate - Cloud Data Pipeline Builder - Training Badge](https://images.credly.com/size/80x80/images/43f26cf1-0b54-41a3-9fa5-3d2f02fa5040/blob)](https://www.credly.com/badges/b699cc3e-1e94-4476-879c-a3f7f459c81c)
 [![Alteryx Designer Core Certification](https://images.credly.com/size/80x80/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png)](https://www.credly.com/badges/8e7a999c-cc70-4631-8324-19257f709d84)
 [![AWS Academy Graduate - Cloud Developing - Training Badge](https://images.credly.com/size/80x80/images/bb3211c0-a562-44ec-a8b5-df54deb0e5e9/blob)](https://www.credly.com/badges/a4da600a-562b-4271-94c1-d9783619a023)
 [![AWS Academy Graduate - Cloud Foundations - Training Badge](https://images.credly.com/size/80x80/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob)](https://www.credly.com/badges/96ebafbd-2c5f-4e47-ad0f-432407d5d622)
